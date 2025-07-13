@@ -58,6 +58,11 @@ webmaster_verifications:
 
 # Web Analytics Settings
 analytics:
+  provider: "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id: "G-NHX5433WCZ"
+    anonymize_ip: # true, false (default)
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
