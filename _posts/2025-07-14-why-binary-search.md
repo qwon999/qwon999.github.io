@@ -3,6 +3,7 @@ title: "이진탐색이 섹시한 이유"
 date: 2025-07-13 21:30:00 +0900
 categories: [CS]
 tags: [이진탐색, B-tree, 자료구조, 연산량, 양자컴퓨팅, 세툰, 삼진법]
+math: true
 ---
 
 ## $O(\log N)$의 섹시함
