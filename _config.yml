@@ -63,8 +63,6 @@ analytics:
   google:
     tracking_id: "G-NHX5433WCZ"
     anonymize_ip: # true, false (default)
-  google:
-    id: # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -132,6 +130,10 @@ comments:
     input_position: "bottom"
     lang: "ko"
     reactions_enabled: "1"
+
+# Math settings
+math:
+  provider: mathjax # [mathjax | katex]
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
