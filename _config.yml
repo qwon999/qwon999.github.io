@@ -46,7 +46,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: "JJOLEYx3yuI-0LKQskDBI8vQe9tr46DRrcI9DLRNhk4"
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -58,13 +58,12 @@ webmaster_verifications:
 
 # Web Analytics Settings
 analytics:
-  provider: "google-gtag" 
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: "google-gtag"
   google:
     tracking_id: "G-NHX5433WCZ"
     anonymize_ip: # true, false (default)
   goatcounter:
-    id: "qwon99"  # ◀ 1단계에서 만든 내 고유 코드를 입력
+    id: "qwon99"
 
   umami:
     id: # fill in your Umami ID
